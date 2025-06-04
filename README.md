@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/CTJGP-B39/eswar-eshopweb/_apis/build/status%2FEswartc.ContosoAir?branchName=master)](https://dev.azure.com/CTJGP-B39/eswar-eshopweb/_build/latest?definitionId=96&branchName=master)
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
